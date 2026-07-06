@@ -13,7 +13,7 @@
 | **Android App** | [Get Public on Google Play](https://play.google.com/store/apps/details?id=in.publicapp.android) |
 | **Help Center** | [https://docs.public.kim](https://docs.public.kim) |
 | **News & Blogs** | [https://publicapp.in](https://publicapp.in) |
-| **Twitter** | [@public](https://twitter.com/public) |
+| **X (Twitter)** | [@public_app](https://x.com/public_app) |
 | **Support** | [publicapp@publicapp.in](mailto:publicapp@publicapp.in) |
 
 ## Features
